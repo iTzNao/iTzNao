@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nao_Bot**
 
-- 🌱 I’m currently learning **Pycord**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **I am British**
 
