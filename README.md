@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A JavaScript Discord bot developer from the UK!</h3>
+<h3 align="center">A JavaScript developer from the UK!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itznao&label=Profile%20views&color=0e75b6&style=flat" alt="itznao" /> </p>
-
-- 🔭 I’m currently working on **Nao_Bot**
-
-- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **I am British**
 
