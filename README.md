@@ -1,5 +1,16 @@
-<h1 align="center">👋 Hola, my name is Nao!</h1>
-<h2 align="center">https://nao.gg<h2>
+<h1 align="center">👋 Hello, my name is Nao!</h1>
+<h2 align="center">Visit https://nao.gg for more info</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itznao&show_icons=true&locale=en" alt="itznao" /></p>
+---
 
+<div align="center">
+
+| My Northstar Mods | Repo Link |
+|:-|:-:|
+| Minecraft Lobby Music | [Click Me](https://github.com/iTzNao/Minecraft_Lobby_Music) |
+| Halo Lobby Music | [Click Me](https://github.com/iTzNao/Halo_Lobby_Music) |
+| Moaning Click Sounds | [Click Me](https://github.com/iTzNao/Moaning_Click_Sounds) |
+| Remove Locked Multiplayer | [Click Me](https://github.com/iTzNao/Remove_Locked_Multiplayer) |
+| Oof Elimination Sound | [Click Me](https://github.com/iTzNao/Oof_Elimination_Sound) |
+
+</div>
